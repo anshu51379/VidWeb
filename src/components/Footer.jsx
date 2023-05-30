@@ -23,7 +23,7 @@ const Footer = () => {
                     <Heading textAlign={'center'}>
                         @anshu51379
                     </Heading>
-                    <Text>All rights received</Text>
+                    <Text>all rights reserved</Text>
                 </VStack>
                 <VStack w={'full'}>
                     <Heading size={'md'} >
